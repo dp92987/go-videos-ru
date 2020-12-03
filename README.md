@@ -36,3 +36,9 @@
 | [7. Программирование на Go. Reflect or generate? \| Технострим](https://www.youtube.com/watch?v=uCSMU8xF1dc) | 2:09:36 |
 | [8. Программирование на Go. Производительность \| Технострим](https://www.youtube.com/watch?v=agntRAtPkK4) | 2:14:56 |
 | [9. Программирование на Go. context, unsafe, safe \| Технострим](https://www.youtube.com/watch?v=LpOioZXgplU) | 1:42:52 |
+
+### Разное
+
+| Название | Длительность | Канал |
+| -------- | ------------ | ----- |
+| [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | 1:36:17 | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) |
