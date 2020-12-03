@@ -1,6 +1,6 @@
 ![Hits](https://twentythree.ru/hit-counter/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdp92987%go-videos)
 
-# go-videos
+# go-videos-ru
 
 Каталог докладов, лекций и других видеоматериалов по Go.
 
