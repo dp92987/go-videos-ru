@@ -23,19 +23,19 @@
 
 ## Лекции
 
-### [Программирование на Go](https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I) от [Технострим Mail.Ru Group](https://www.youtube.com/user/TPMGTU) `2017`
+### [Программирование на Go](https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I) от [Технострим Mail.Ru Group](https://www.youtube.com/user/TPMGTU)
 
-| Название | Длительность |
-| -------- | ------------ |
-| [1. Программирование на Go. Введение \| Технострим](https://www.youtube.com/watch?v=9Pk7xAT_aCU) | 2:20:43 |
-| [2. Программирование на Go. Функции, структуры, интерфейсы. Объектная модель \| Технострим](https://www.youtube.com/watch?v=9Ia16QOY8rk) | 1:38:02 |
-| [3. Программирование на Go. Асинхронная модель \| Технострим](https://www.youtube.com/watch?v=kFeM4R5TlCY) | 1:45:17 |
-| [4. Программирование на Go. Web. Работа с сетью \| Технострим](https://www.youtube.com/watch?v=lgh6zic15EA) | 1:41:03 |
-| [5. Программирование на Go. Работа СУБД \| Технострим](https://www.youtube.com/watch?v=iho3_zq4tik) | 2:36:07 |
-| [6. Программирование на Go. Система тестирования \| Технострим](https://www.youtube.com/watch?v=C9wQIYqWPiA) | 1:53:31 |
-| [7. Программирование на Go. Reflect or generate? \| Технострим](https://www.youtube.com/watch?v=uCSMU8xF1dc) | 2:09:36 |
-| [8. Программирование на Go. Производительность \| Технострим](https://www.youtube.com/watch?v=agntRAtPkK4) | 2:14:56 |
-| [9. Программирование на Go. context, unsafe, safe \| Технострим](https://www.youtube.com/watch?v=LpOioZXgplU) | 1:42:52 |
+| Название | Длительность | Дата |
+| -------- | ------------ | ---- |
+| [1. Программирование на Go. Введение \| Технострим](https://www.youtube.com/watch?v=9Pk7xAT_aCU) | 2:20:43 | 2017-03-21 |
+| [2. Программирование на Go. Функции, структуры, интерфейсы. Объектная модель \| Технострим](https://www.youtube.com/watch?v=9Ia16QOY8rk) | 1:38:02 | 2017-03-24 |
+| [3. Программирование на Go. Асинхронная модель \| Технострим](https://www.youtube.com/watch?v=kFeM4R5TlCY) | 1:45:17 | 2017-03-27 |
+| [4. Программирование на Go. Web. Работа с сетью \| Технострим](https://www.youtube.com/watch?v=lgh6zic15EA) | 1:41:03 | 2017-03-30 |
+| [5. Программирование на Go. Работа СУБД \| Технострим](https://www.youtube.com/watch?v=iho3_zq4tik) | 2:36:07 | 2017-03-29 |
+| [6. Программирование на Go. Система тестирования \| Технострим](https://www.youtube.com/watch?v=C9wQIYqWPiA) | 1:53:31 | 2017-10-31 |
+| [7. Программирование на Go. Reflect or generate? \| Технострим](https://www.youtube.com/watch?v=uCSMU8xF1dc) | 2:09:36 | 2017-11-02 |
+| [8. Программирование на Go. Производительность \| Технострим](https://www.youtube.com/watch?v=agntRAtPkK4) | 2:14:56 | 2017-11-04 |
+| [9. Программирование на Go. context, unsafe, safe \| Технострим](https://www.youtube.com/watch?v=LpOioZXgplU) | 1:42:52 | 2017-11-12 |
 
 
 ### [Skillbox Программирование](https://www.youtube.com/channel/UCHJZFCpwlXV7Sie1dV6pQLw)
@@ -64,6 +64,6 @@
 
 ### Разное
 
-| Название | Длительность | Канал |
-| -------- | ------------ | ----- |
-| [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | 1:36:17 | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) |
+| Название | Длительность | Канал | Дата |
+| -------- | ------------ | ----- | ---- |
+| [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | 1:36:17 | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) | 2018-12-24 |
