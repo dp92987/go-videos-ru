@@ -9,6 +9,7 @@
 - [Курсы](#курсы)
 - [Лекции](#лекции)
 - [Митапы](#митапы)
+- [Разное](#разное)
 
 ## Курсы
 
@@ -59,8 +60,16 @@
 | [Бот на Golang: подводим итоги](https://www.youtube.com/watch?v=zgj8QcA1XIQ) | 1:28:12 | 2020-11-20 |
 
 
-### [Разное](https://www.youtube.com/playlist?list=PLGFInI_ge4jTYcx5J88U9FwMfRaortxXE)
+### [Другие](https://www.youtube.com/playlist?list=PLGFInI_ge4jTYcx5J88U9FwMfRaortxXE)
 
 | Название | Длительность | Канал | Дата |
 | -------- | ------------ | ----- | ---- |
 | [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | 1:36:17 | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) | 2018-12-24 |
+
+## Митапы
+
+## [Разное](https://www.youtube.com/playlist?list=PLGFInI_ge4jTO9PPcld8RV103xu3AF8oH)
+| Название | Длительность | Канал | Дата |
+| -------- | ------------ | ----- | ---- |
+| [Программист из 80х / История появления интернета и программирования в СССР / Всё о Go](https://www.youtube.com/watch?v=wabcXNZClnA) | 1:52:29 | [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q) | 2019-11-08 |
+
