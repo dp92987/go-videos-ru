@@ -15,12 +15,10 @@
 
 | Название | Инструктор | Платформа |
 | -------- | ---------- | --------- |
-| [Getting Started with Go](https://www.coursera.org/learn/golang-getting-started) `🇺🇸` | University of California, Irvine | Coursera
-| [Functions, Methods, and Interfaces in Go](https://www.coursera.org/learn/golang-functions-methods) `🇺🇸` | University of California, Irvine | Coursera |
-| [Concurrency in Go](https://www.coursera.org/learn/golang-concurrency) `🇺🇸` | University of California, Irvine | Coursera |
+| [Программирование на Golang](https://stepik.org/54403) | | Stepik |
+| |
 | [Разработка веб-сервисов на Go - основы языка](https://www.coursera.org/learn/golang-webservices-1) | ФРОО, Mail.Ru Group, Moscow Institute of Physics and Technology | Coursera |
 | [Разработка веб-сервисов на Golang, часть 2](https://www.coursera.org/learn/golang-webservices-2) | ФРОО, Mail.Ru Group, Moscow Institute of Physics and Technology | Coursera |
-
 
 ## Лекции
 
