@@ -1,4 +1,4 @@
-![Hits](https://hits.twentythree.ru/github-go-videos-ru.svg?cache=0)
+![Hits](https://hits.twentythree.ru/github-go-videos-ru.svg)
 
 # go-videos-ru
 
