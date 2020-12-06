@@ -1,4 +1,4 @@
-![Hits](https://twentythree.ru/hit-counter/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdp92987%2Fgo-videos-ru)
+![Hits](https://hits.twentythree.ru/github-go-videos-ru.svg)
 
 # go-videos-ru
 
