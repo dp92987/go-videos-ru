@@ -35,7 +35,6 @@
 | [8. Программирование на Go. Производительность \| Технострим](https://www.youtube.com/watch?v=agntRAtPkK4) | 2:14:56 | 2017-11-04 |
 | [9. Программирование на Go. context, unsafe, safe \| Технострим](https://www.youtube.com/watch?v=LpOioZXgplU) | 1:42:52 | 2017-11-12 |
 
-
 ### [Skillbox](https://www.youtube.com/playlist?list=PLGFInI_ge4jTfvUoVthbZXkWnXq03foFD)
 
 | Название | Длительность | Дата |
@@ -53,7 +52,6 @@
 | [Учим бота на Golang общаться с пользователями](https://www.youtube.com/watch?v=St2tEA_mjjA) | 1:28:12 | 2020-11-20 |
 | [Бот на Golang: подводим итоги](https://www.youtube.com/watch?v=zgj8QcA1XIQ) | 1:28:12 | 2020-11-20 |
 
-
 ### [Другие](https://www.youtube.com/playlist?list=PLGFInI_ge4jTYcx5J88U9FwMfRaortxXE)
 
 | Название | Длительность | Канал | Дата |
@@ -63,8 +61,17 @@
 
 ## Митапы
 
+### 2019
+
+#### [Kolesa Go Meetup](https://www.youtube.com/playlist?list=PLGFInI_ge4jT6xmjgSTDxJ56FySbQ-8pJ)
+
+| Название | Длительность | Канал | Дата |
+| -------- | ------------ | ----- | ---- |
+| [Виталий Березнев, «GO в Kolesa Group»](https://www.youtube.com/watch?v=4UhAevpsyLk) | 0:53:55 | 2019-11-09 |
+| [Антон Сергеев, «Go под капотом»](https://www.youtube.com/watch?v=rloqQY9CT8I) | 0:36:37 | 2019-11-13 |
+| [Алтынбек Шарипов, «JSON Marshal / Unmarshal интерфейсов в Go»](https://www.youtube.com/watch?v=9MA60kPiC6I) | 0:28:48 | 2019-12-03 |
+
 ## [Разное](https://www.youtube.com/playlist?list=PLGFInI_ge4jTO9PPcld8RV103xu3AF8oH)
 | Название | Длительность | Канал | Дата |
 | -------- | ------------ | ----- | ---- |
 | [Программист из 80х / История появления интернета и программирования в СССР / Всё о Go](https://www.youtube.com/watch?v=wabcXNZClnA) | 1:52:29 | [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q) | 2019-11-08 |
-
