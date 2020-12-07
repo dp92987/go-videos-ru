@@ -58,6 +58,7 @@
 
 | Название | Длительность | Канал | Дата |
 | -------- | ------------ | ----- | ---- |
+| [Изучение Go в одном видео уроке за 30 минут!](https://www.youtube.com/watch?v=pfmxPtLIW34) | 0:31:23 | [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw) | 2017-08-07 |
 | [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | 1:36:17 | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) | 2018-12-24 |
 
 ## Митапы
