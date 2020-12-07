@@ -15,9 +15,9 @@
 
 | Название | Инструктор | Платформа |
 | -------- | ---------- | --------- |
+| [Программирование на Golang](https://stepik.org/54403) | Stepik | Stepik |
 | [Разработка веб-сервисов на Go - основы языка](https://www.coursera.org/learn/golang-webservices-1) | ФРОО, Mail.Ru Group, Moscow Institute of Physics and Technology | Coursera |
 | [Разработка веб-сервисов на Golang, часть 2](https://www.coursera.org/learn/golang-webservices-2) | ФРОО, Mail.Ru Group, Moscow Institute of Physics and Technology | Coursera |
-| [Программирование на Golang](https://stepik.org/54403) | Stepik | Stepik |
 
 ## Лекции
 
