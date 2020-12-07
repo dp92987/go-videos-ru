@@ -65,8 +65,8 @@
 
 #### [Kolesa Go Meetup](https://www.youtube.com/playlist?list=PLGFInI_ge4jT6xmjgSTDxJ56FySbQ-8pJ)
 
-| Название | Длительность | Канал | Дата |
-| -------- | ------------ | ----- | ---- |
+| Название | Длительность | Дата |
+| -------- | ------------ | ---- |
 | [Виталий Березнев, «GO в Kolesa Group»](https://www.youtube.com/watch?v=4UhAevpsyLk) | 0:53:55 | 2019-11-09 |
 | [Антон Сергеев, «Go под капотом»](https://www.youtube.com/watch?v=rloqQY9CT8I) | 0:36:37 | 2019-11-13 |
 | [Алтынбек Шарипов, «JSON Marshal / Unmarshal интерфейсов в Go»](https://www.youtube.com/watch?v=9MA60kPiC6I) | 0:28:48 | 2019-12-03 |
