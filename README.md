@@ -17,8 +17,7 @@
 | -------- | ---------- | --------- |
 | [Разработка веб-сервисов на Go - основы языка](https://www.coursera.org/learn/golang-webservices-1) | ФРОО, Mail.Ru Group, Moscow Institute of Physics and Technology | Coursera |
 | [Разработка веб-сервисов на Golang, часть 2](https://www.coursera.org/learn/golang-webservices-2) | ФРОО, Mail.Ru Group, Moscow Institute of Physics and Technology | Coursera |
-| |
-| [Программирование на Golang](https://stepik.org/54403) | | Stepik |
+| [Программирование на Golang](https://stepik.org/54403) | Stepik | Stepik |
 
 ## Лекции
 
@@ -44,15 +43,12 @@
 | [Погружаемся в профессию Go-разработчика](https://www.youtube.com/watch?v=PxvQdW8Og1M) | 1:59:17 | 2020-07-13 |
 | [Интенсив по Go. Учимся автоматизировать](https://www.youtube.com/watch?v=wMD8Hbrldsg) | 2:05:38 | 2020-07-14 |
 | [Интенсив по Go. Подводим итоги](https://www.youtube.com/watch?v=Y3upjTLxPuc) | 2:09:27 | 2020-07-15 |
-| |
 | [Погружаемся в профессию Go-разработчика](https://www.youtube.com/watch?v=5isxMRwtzls) | 1:54:38 | 2020-08-13 |
 | [Интенсив по Go. Учимся автоматизировать](https://www.youtube.com/watch?v=bNCetdXu_0Q) | 1:34:29 | 2020-08-14 |
 | [Интенсив по Go. Подводим итоги](https://www.youtube.com/watch?v=Fi092dv3vzY) | 1:30:39 | 2020-08-15 |
-| |
 | [Погружаемся в профессию Go-разработчика](https://www.youtube.com/watch?v=F5KsSbczaDM) | 1:53:19 | 2020-09-14 |
 | [Интенсив по Go. Учимся автоматизировать](https://www.youtube.com/watch?v=hkREK0EbzT8) | 1:23:00 | 2020-09-15 |
 | [Интнсив по Go. Подводим итоги](https://www.youtube.com/watch?v=aomePXcM0KI) | 0:48:26 | 2020-09-16 |
-| |
 | [Знакомимся с профессией Go-разработчика](https://www.youtube.com/watch?v=ZLK-JgqerVc) | 1:45:49 | 2020-11-19 |
 | [Учим бота на Golang общаться с пользователями](https://www.youtube.com/watch?v=St2tEA_mjjA) | 1:28:12 | 2020-11-20 |
 | [Бот на Golang: подводим итоги](https://www.youtube.com/watch?v=zgj8QcA1XIQ) | 1:28:12 | 2020-11-20 |
