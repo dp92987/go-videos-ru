@@ -1,4 +1,4 @@
-![Hits](https://hits.twentythree.ru/go-videos-ru.svg)
+[![hits](https://hits.twentythree.ru/go-videos-ru.svg)](https://hits.twentythree.ru/go-videos-ru.svg)
 
 # go-videos-ru
 
@@ -10,6 +10,7 @@
 - [Лекции](#лекции)
 - [Митапы](#митапы)
   - [2019](#2019)
+  - [2020](#2020)
 - [Разное](#разное)
 
 ## Курсы
