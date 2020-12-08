@@ -72,6 +72,19 @@
 | [Антон Сергеев, «Go под капотом»](https://www.youtube.com/watch?v=rloqQY9CT8I) | 0:36:37 | 2019-11-13 |
 | [Алтынбек Шарипов, «JSON Marshal / Unmarshal интерфейсов в Go»](https://www.youtube.com/watch?v=9MA60kPiC6I) | 0:28:48 | 2019-12-03 |
 
+### [2020](https://www.youtube.com/playlist?list=PLGFInI_ge4jTdEcihGP-m_yWMPL3KNd8a)
+
+#### Карантин, Go away!
+
+| Название | Длительность | Дата |
+| -------- | ------------ | ---- |
+| [Онлайн митап по Go - Карантин, Go away!](https://www.youtube.com/watch?v=_RXiX71mMzU) | 3:48:57 | 2020-05-30 |
+| [Тестирование (микро)сервисов - Алексей Палажченко, Percona](https://www.youtube.com/watch?v=18CSNAcE5HY) | 0:38:28 | 2020-06-08 |
+| [Dependency Injection and it’s friends (in Go) - Антон Кучеров, Toggl](https://www.youtube.com/watch?v=w2xl-GIPK7Q) | 0:38:08 | 2020-06-08 |
+| [Чистая архитектура в автоматизации - Сергей Шамбир, iSpring](https://www.youtube.com/watch?v=GjeX9AaPD_k) | 0:41:03 | 2020-06-08 |
+| [Go-Swagger в продуктиве: взлеты и падения — Илья Казначеев, МТС](https://www.youtube.com/watch?v=9GgCbQdW6J4) | 0:41:27 | 2020-06-08 |
+| [Викторина по языку Go на митапе "Карантин, Go away!"](https://www.youtube.com/watch?v=GaDubTLOkUI) | 0:14:35 | 2020-06-08 |
+
 ## [Разное](https://www.youtube.com/playlist?list=PLGFInI_ge4jTO9PPcld8RV103xu3AF8oH)
 | Название | Длительность | Канал | Дата |
 | -------- | ------------ | ----- | ---- |
