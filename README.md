@@ -9,6 +9,7 @@
 - [Курсы](#курсы)
 - [Лекции](#лекции)
 - [Митапы](#митапы)
+  - [2019](#2019)
 - [Разное](#разное)
 
 ## Курсы
@@ -61,9 +62,9 @@
 
 ## Митапы
 
-### 2019
+### [2019](https://www.youtube.com/playlist?list=PLGFInI_ge4jT6xmjgSTDxJ56FySbQ-8pJ)
 
-#### [Kolesa Go Meetup](https://www.youtube.com/playlist?list=PLGFInI_ge4jT6xmjgSTDxJ56FySbQ-8pJ)
+#### Kolesa Go Meetup
 
 | Название | Длительность | Дата |
 | -------- | ------------ | ---- |
