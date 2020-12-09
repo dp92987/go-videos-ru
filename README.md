@@ -8,7 +8,7 @@
 
 - [Курсы](#курсы)
 - [Лекции](#лекции)
-- [Митапы](#митапы)
+- [Доклады](#Доклады)
   - [2019](#2019)
   - [2020](#2020)
 - [Разное](#разное)
@@ -61,7 +61,7 @@
 | [Изучение Go в одном видео уроке за 30 минут!](https://www.youtube.com/watch?v=pfmxPtLIW34) | 0:31:23 | [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw) | 2017-08-07 |
 | [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | 1:36:17 | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) | 2018-12-24 |
 
-## Митапы
+## Доклады
 
 ### [2019](https://www.youtube.com/playlist?list=PLGFInI_ge4jT6xmjgSTDxJ56FySbQ-8pJ)
 
@@ -74,6 +74,11 @@
 | [Алтынбек Шарипов, «JSON Marshal / Unmarshal интерфейсов в Go»](https://www.youtube.com/watch?v=9MA60kPiC6I) | 0:28:48 | 2019-12-03 |
 
 ### [2020](https://www.youtube.com/playlist?list=PLGFInI_ge4jTdEcihGP-m_yWMPL3KNd8a)
+
+| Название | Длительность | Дата |
+| -------- | ------------ | ---- |
+| [Разработка production ready web сервиса на Go - Илья Казначеев](https://www.youtube.com/watch?v=UTWIskmGN5o) | 3:49:46 | 2020-04-26 |
+| [Which way to Go - рассказ о современном Golang» Никита Соснов, DataArt](https://www.youtube.com/watch?v=kpEnJ0C1Yso) | 0:46:49 | 2020-05-13 |
 
 #### Карантин, Go away!
 
