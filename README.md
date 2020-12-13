@@ -1,4 +1,4 @@
-[![hits](https://hits.twentythree.ru/go-videos-ru.svg)](https://github.com/dp92987/hits-badge)
+[![hits](https://hits.deltapapa.io/go-videos-ru.svg)](https://github.com/dp92987/hits-badge)
 
 # go-videos-ru
 
