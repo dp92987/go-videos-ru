@@ -9,6 +9,7 @@
 - [Курсы](#курсы)
 - [Лекции](#лекции)
 - [Доклады](#Доклады)
+  - [2013](#2013)
   - [2019](#2019)
   - [2020](#2020)
 - [Разное](#разное)
@@ -63,6 +64,12 @@
 
 ## Доклады
 
+### [2013](https://www.youtube.com/playlist?list=PLGFInI_ge4jQ06DXLnjryhorCUFFoUMrS)
+
+| Название | Канал / Митап | Дата |
+| -------- | ------------- | ---- |
+| [Go для python программистов](https://www.youtube.com/watch?v=0h-IENieEFI) | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) / Moscow Django Meetup № 13 | 2013-10-24 |
+
 ### [2019](https://www.youtube.com/playlist?list=PLGFInI_ge4jT6xmjgSTDxJ56FySbQ-8pJ)
 
 #### Kolesa Go Meetup
@@ -75,21 +82,17 @@
 
 ### [2020](https://www.youtube.com/playlist?list=PLGFInI_ge4jTdEcihGP-m_yWMPL3KNd8a)
 
-| Название | Длительность | Дата |
-| -------- | ------------ | ---- |
-| [Разработка production ready web сервиса на Go - Илья Казначеев](https://www.youtube.com/watch?v=UTWIskmGN5o) | 3:49:46 | 2020-04-26 |
-| [Which way to Go - рассказ о современном Golang» Никита Соснов, DataArt](https://www.youtube.com/watch?v=kpEnJ0C1Yso) | 0:46:49 | 2020-05-13 |
-
-#### Карантин, Go away!
-
-| Название | Длительность | Дата |
-| -------- | ------------ | ---- |
-| [Онлайн митап по Go - Карантин, Go away!](https://www.youtube.com/watch?v=_RXiX71mMzU) | 3:48:57 | 2020-05-30 |
-| [Тестирование (микро)сервисов - Алексей Палажченко, Percona](https://www.youtube.com/watch?v=18CSNAcE5HY) | 0:38:28 | 2020-06-08 |
-| [Dependency Injection and it’s friends (in Go) - Антон Кучеров, Toggl](https://www.youtube.com/watch?v=w2xl-GIPK7Q) | 0:38:08 | 2020-06-08 |
-| [Чистая архитектура в автоматизации - Сергей Шамбир, iSpring](https://www.youtube.com/watch?v=GjeX9AaPD_k) | 0:41:03 | 2020-06-08 |
-| [Go-Swagger в продуктиве: взлеты и падения — Илья Казначеев, МТС](https://www.youtube.com/watch?v=9GgCbQdW6J4) | 0:41:27 | 2020-06-08 |
-| [Викторина по языку Go на митапе "Карантин, Go away!"](https://www.youtube.com/watch?v=GaDubTLOkUI) | 0:14:35 | 2020-06-08 |
+| Название | Канал / Митап | Дата |
+| -------- | ------------- | ---- |
+| [Go vs Python / Виталий Левченко](https://www.youtube.com/watch?v=a8oEETIRpCk) | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) / Moscow Python Conf++ 2019 | 2020-02-04 |
+| [Разработка production ready web сервиса на Go - Илья Казначеев](https://www.youtube.com/watch?v=UTWIskmGN5o) | [GDG Voronezh](https://www.youtube.com/channel/UCuyQZKRY--KwpvAqaUINs_w) | 2020-04-26 |
+| [Which way to Go - рассказ о современном Golang» Никита Соснов, DataArt](https://www.youtube.com/watch?v=kpEnJ0C1Yso) | [DataArt Online](https://www.youtube.com/channel/UCmuVzF_cdLKUydjRWmZInHQ) | 2020-05-13 |
+| [Онлайн митап по Go - Карантин, Go away!](https://www.youtube.com/watch?v=_RXiX71mMzU) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-05-30 |
+| [Тестирование (микро)сервисов - Алексей Палажченко, Percona](https://www.youtube.com/watch?v=18CSNAcE5HY) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
+| [Dependency Injection and it’s friends (in Go) - Антон Кучеров, Toggl](https://www.youtube.com/watch?v=w2xl-GIPK7Q) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
+| [Чистая архитектура в автоматизации - Сергей Шамбир, iSpring](https://www.youtube.com/watch?v=GjeX9AaPD_k) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
+| [Go-Swagger в продуктиве: взлеты и падения — Илья Казначеев, МТС](https://www.youtube.com/watch?v=9GgCbQdW6J4) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
+| [Викторина по языку Go на митапе "Карантин, Go away!"](https://www.youtube.com/watch?v=GaDubTLOkUI) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
 
 ## [Разное](https://www.youtube.com/playlist?list=PLGFInI_ge4jTO9PPcld8RV103xu3AF8oH)
 | Название | Длительность | Канал | Дата |
