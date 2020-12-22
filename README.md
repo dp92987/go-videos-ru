@@ -95,3 +95,5 @@
 | Название | Длительность | Канал | Дата |
 | -------- | ------------ | ----- | ---- |
 | [Программист из 80х / История появления интернета и программирования в СССР / Всё о Go](https://www.youtube.com/watch?v=wabcXNZClnA) | 1:52:29 | [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q) | 2019-11-08 |
+| [Moscow Python Podcast. Как перейти от Python на Go во время самоизоляции (level: junior)](https://www.youtube.com/watch?v=IezLODvdgd8) | 0:27:14 | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) | 2020-04-18 | 
+| [Moscow Python Podcast. Подкаст про Golang (level: All)](https://www.youtube.com/watch?v=Qj0A7An1dVQ) | 0:37:04 | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) | 2020-12-16 | 
