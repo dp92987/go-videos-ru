@@ -72,13 +72,11 @@
 
 ### [2019](https://www.youtube.com/playlist?list=PLGFInI_ge4jT6xmjgSTDxJ56FySbQ-8pJ)
 
-#### Kolesa Go Meetup
-
-| Название | Длительность | Дата |
-| -------- | ------------ | ---- |
-| [Виталий Березнев, «GO в Kolesa Group»](https://www.youtube.com/watch?v=4UhAevpsyLk) | 0:53:55 | 2019-11-09 |
-| [Антон Сергеев, «Go под капотом»](https://www.youtube.com/watch?v=rloqQY9CT8I) | 0:36:37 | 2019-11-13 |
-| [Алтынбек Шарипов, «JSON Marshal / Unmarshal интерфейсов в Go»](https://www.youtube.com/watch?v=9MA60kPiC6I) | 0:28:48 | 2019-12-03 |
+| Название | Канал / Митап | Дата |
+| -------- | ------------- | ---- |
+| [Виталий Березнев, «GO в Kolesa Group»](https://www.youtube.com/watch?v=4UhAevpsyLk) | [Kolesa Group](https://www.youtube.com/channel/UC6o6waSdIvmIdvy7qTqxY9A) / Kolesa Go Meetup | 2019-11-09 |
+| [Антон Сергеев, «Go под капотом»](https://www.youtube.com/watch?v=rloqQY9CT8I) | [Kolesa Group](https://www.youtube.com/channel/UC6o6waSdIvmIdvy7qTqxY9A) / Kolesa Go Meetup | 2019-11-13 |
+| [Алтынбек Шарипов, «JSON Marshal / Unmarshal интерфейсов в Go»](https://www.youtube.com/watch?v=9MA60kPiC6I) | [Kolesa Group](https://www.youtube.com/channel/UC6o6waSdIvmIdvy7qTqxY9A) / Kolesa Go Meetup | 2019-12-03 |
 
 ### [2020](https://www.youtube.com/playlist?list=PLGFInI_ge4jTdEcihGP-m_yWMPL3KNd8a)
 
@@ -95,8 +93,8 @@
 | [Викторина по языку Go на митапе "Карантин, Go away!"](https://www.youtube.com/watch?v=GaDubTLOkUI) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
 
 ## [Разное](https://www.youtube.com/playlist?list=PLGFInI_ge4jTO9PPcld8RV103xu3AF8oH)
-| Название | Длительность | Канал | Дата |
-| -------- | ------------ | ----- | ---- |
-| [Программист из 80х / История появления интернета и программирования в СССР / Всё о Go](https://www.youtube.com/watch?v=wabcXNZClnA) | 1:52:29 | [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q) | 2019-11-08 |
-| [Moscow Python Podcast. Как перейти от Python на Go во время самоизоляции (level: junior)](https://www.youtube.com/watch?v=IezLODvdgd8) | 0:27:14 | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) | 2020-04-18 | 
-| [Moscow Python Podcast. Подкаст про Golang (level: All)](https://www.youtube.com/watch?v=Qj0A7An1dVQ) | 0:37:04 | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) | 2020-12-16 | 
+| Название | Канал | Дата |
+| -------- | ----- | ---- |
+| [Программист из 80х / История появления интернета и программирования в СССР / Всё о Go](https://www.youtube.com/watch?v=wabcXNZClnA) | [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q) | 2019-11-08 |
+| [Moscow Python Podcast. Как перейти от Python на Go во время самоизоляции (level: junior)](https://www.youtube.com/watch?v=IezLODvdgd8) | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) | 2020-04-18 | 
+| [Moscow Python Podcast. Подкаст про Golang (level: All)](https://www.youtube.com/watch?v=Qj0A7An1dVQ) | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) | 2020-12-16 | 
