@@ -57,10 +57,13 @@
 
 ### [Другие](https://www.youtube.com/playlist?list=PLGFInI_ge4jTYcx5J88U9FwMfRaortxXE)
 
-| Название | Длительность | Канал | Дата |
-| -------- | ------------ | ----- | ---- |
-| [Изучение Go в одном видео уроке за 30 минут!](https://www.youtube.com/watch?v=pfmxPtLIW34) | 0:31:23 | [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw) | 2017-08-07 |
-| [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | 1:36:17 | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) | 2018-12-24 |
+| Название | Канал | Дата |
+| -------- | ----- | ---- |
+| [Изучение Go в одном видео уроке за 30 минут!](https://www.youtube.com/watch?v=pfmxPtLIW34) | [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw) | 2017-08-07 |
+| [Язык программирования Go с живыми примерами](https://www.youtube.com/watch?v=lDdBWPsqpnw) | [Компьютерная школа Hillel](https://www.youtube.com/channel/UCIyfaiKil5oomY64XIRJEAA) | 2020-10-01 |
+| [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) | 2018-12-24 |
+| [Программирование на Go - структура проекта](https://www.youtube.com/watch?v=MAouB2r4yms) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 2020-08-12 |
+| [Golang REST API на Echo framework. Clean Architecture. Testify для тестов.](https://www.youtube.com/watch?v=dyvYXidvc8g) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 2020-10-13 |
 
 ## Доклады
 
@@ -96,5 +99,7 @@
 | Название | Канал | Дата |
 | -------- | ----- | ---- |
 | [Программист из 80х / История появления интернета и программирования в СССР / Всё о Go](https://www.youtube.com/watch?v=wabcXNZClnA) | [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q) | 2019-11-08 |
-| [Moscow Python Podcast. Как перейти от Python на Go во время самоизоляции (level: junior)](https://www.youtube.com/watch?v=IezLODvdgd8) | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) | 2020-04-18 | 
-| [Moscow Python Podcast. Подкаст про Golang (level: All)](https://www.youtube.com/watch?v=Qj0A7An1dVQ) | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) | 2020-12-16 | 
+| [Moscow Python Podcast. Как перейти от Python на Go во время самоизоляции (level: junior)](https://www.youtube.com/watch?v=IezLODvdgd8) | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) | 2020-04-18 |
+| [Бэкенд тест. Golang удаленка на 5 000 000 рублей.](https://www.youtube.com/watch?v=Z67qyN0rYQM) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 2020-09-06 |
+| [Как готовиться к техническому собеседованию на позицию Golang-разработчика?](https://www.youtube.com/watch?v=FNMddHRPc9U) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 2020-11-22 |
+| [Moscow Python Podcast. Подкаст про Golang (level: All)](https://www.youtube.com/watch?v=Qj0A7An1dVQ) | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) | 2020-12-16 |
