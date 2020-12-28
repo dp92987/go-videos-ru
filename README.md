@@ -60,7 +60,7 @@
 | Название | Канал | Дата |
 | -------- | ----- | ---- |
 | [Изучение Go в одном видео уроке за 30 минут!](https://www.youtube.com/watch?v=pfmxPtLIW34) | [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw) | 2017-08-07 |
-| [Язык программирования Go с живыми примерами](https://www.youtube.com/watch?v=lDdBWPsqpnw) | [Компьютерная школа Hillel](https://www.youtube.com/channel/UCIyfaiKil5oomY64XIRJEAA) | 2020-10-01 |
+| [Язык программирования Go с живыми примерами](https://www.youtube.com/watch?v=lDdBWPsqpnw) | [Компьютерная школа Hillel](https://www.youtube.com/channel/UCIyfaiKil5oomY64XIRJEAA) | 2017-10-01 |
 | [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) | 2018-12-24 |
 | [Программирование на Go - структура проекта](https://www.youtube.com/watch?v=MAouB2r4yms) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 2020-08-12 |
 | [Golang REST API на Echo framework. Clean Architecture. Testify для тестов.](https://www.youtube.com/watch?v=dyvYXidvc8g) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 2020-10-13 |
