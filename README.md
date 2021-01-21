@@ -61,6 +61,9 @@
 | -------- | ----- | ---- |
 | [Изучение Go в одном видео уроке за 30 минут!](https://www.youtube.com/watch?v=pfmxPtLIW34) | [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw) | 2017-08-07 |
 | [Язык программирования Go с живыми примерами](https://www.youtube.com/watch?v=lDdBWPsqpnw) | [Компьютерная школа Hillel](https://www.youtube.com/channel/UCIyfaiKil5oomY64XIRJEAA) | 2017-10-01 |
+| [Лекции по Go 1/3. Эффективное использование структур данных в Go](https://www.youtube.com/watch?v=kClQ7rM5uBY) | [FIX Group of Companies](https://www.youtube.com/channel/UCYCgb6TgOyPMkb5YYMaX9FQ) | 2018-11-13 |
+| [Лекции по Go 2/3. Практическое занятие по профилированию кода](https://www.youtube.com/watch?v=tmrqqk0q22g) | [FIX Group of Companies](https://www.youtube.com/channel/UCYCgb6TgOyPMkb5YYMaX9FQ) | 2018-11-13 |
+| [Лекции по Go 3/3. Эффективная асинхронность (concurrency) в Go](https://www.youtube.com/watch?v=o4vd-lMRI54) | [FIX Group of Companies](https://www.youtube.com/channel/UCYCgb6TgOyPMkb5YYMaX9FQ) | 2018-11-13 |
 | [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) | 2018-12-24 |
 | [Программирование на Go - структура проекта](https://www.youtube.com/watch?v=MAouB2r4yms) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 2020-08-12 |
 | [Golang REST API на Echo framework. Clean Architecture. Testify для тестов.](https://www.youtube.com/watch?v=dyvYXidvc8g) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 2020-10-13 |
