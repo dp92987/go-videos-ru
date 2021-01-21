@@ -10,6 +10,7 @@
 - [Лекции](#лекции)
 - [Доклады](#Доклады)
   - [2013](#2013)
+  - [2017](#2017)
   - [2019](#2019)
   - [2020](#2020)
 - [Разное](#разное)
@@ -75,6 +76,16 @@
 | Название | Канал / Митап | Дата |
 | -------- | ------------- | ---- |
 | [Go для python программистов](https://www.youtube.com/watch?v=0h-IENieEFI) | [MoscowPython](https://www.youtube.com/c/moscowdjangoru) / Moscow Django Meetup № 13 | 2013-10-24 |
+
+### [2017](https://www.youtube.com/playlist?list=PLGFInI_ge4jQzwm-Wuzun2wb2cciPqxWL)
+
+| Название | Канал / Митап | Дата |
+| -------- | ------------- | ---- |
+| [Go Template Toolkit \| Технострим](https://www.youtube.com/watch?v=Tfa_oDTUK3c) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO meetup | 2017-04-24 |
+| [Pub/Sub && 1M WebSockets \| Технострим](https://www.youtube.com/watch?v=dIiNBSOeVPs) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO meetup | 2017-04-25 |
+| [Структурное логирование \| Технострим](https://www.youtube.com/watch?v=c_MPDg2C9tg) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO meetup | 2017-04-26 |
+| [GКак я написала платформу, взаимодействующую более чем с 15 странами \| Технострим](https://www.youtube.com/watch?v=qj3kNvRmSRQ) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO meetup | 2017-04-26 |
+| [Профилирование Go приложений \| Технострим](https://www.youtube.com/watch?v=-a0CfL1pcxI) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO meetup | 2017-04-27 |
 
 ### [2019](https://www.youtube.com/playlist?list=PLGFInI_ge4jT6xmjgSTDxJ56FySbQ-8pJ)
 
