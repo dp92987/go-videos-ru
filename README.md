@@ -11,6 +11,7 @@
 - [Доклады](#Доклады)
   - [2013](#2013)
   - [2017](#2017)
+  - [2018](#2018)
   - [2019](#2019)
   - [2020](#2020)
 - [Разное](#разное)
@@ -86,6 +87,20 @@
 | [Структурное логирование \| Технострим](https://www.youtube.com/watch?v=c_MPDg2C9tg) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO meetup | 2017-04-26 |
 | [GКак я написала платформу, взаимодействующую более чем с 15 странами \| Технострим](https://www.youtube.com/watch?v=qj3kNvRmSRQ) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO meetup | 2017-04-26 |
 | [Профилирование Go приложений \| Технострим](https://www.youtube.com/watch?v=-a0CfL1pcxI) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO meetup | 2017-04-27 |
+
+### [2018](https://www.youtube.com/playlist?list=PLGFInI_ge4jTO5nYeYHDNhOFfFwSE3_B-)
+
+| Название | Канал / Митап | Дата |
+| -------- | ------------- | ---- |
+| [«Миллиард пушей на Go», Дмитрий Швеенков, Mail.Ru Group \| Технострим](https://www.youtube.com/watch?v=4NiGS9Lmde4) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-23 |
+| [«Опыт переезда частей сайта банка с Parser на Go», Андрей Рацеров, Альфа-Банк \| Технострим](https://www.youtube.com/watch?v=uJR0nRZnsek) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-23 |
+| [«Медиасервер трансляций на Go», Михаил Райченко, ВКонтакте \| Технострим](https://www.youtube.com/watch?v=FB2y4rXOVRo) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-23 |
+| [«Два разных опыта миграции на Go. На примере Lazada и Ozon.travel», Юрий Васияров \| Технострим](https://www.youtube.com/watch?v=I5Yo2yoLQZc) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-24 |
+| [«Как мы начали использовать Go в Ответах@mail.ru», Марк Белоцкий, Mail.Ru Group \| Технострим](https://www.youtube.com/watch?v=-qShMcOKJDo) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-24 |
+| [«Опыт перехода проекта Авито.Доставка с Java на Go», Илья Лапин, Сергей Поляков, Avito \| Технострим](https://www.youtube.com/watch?v=2BNhv6NA4L0) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-24 |
+| [«Pipeline поиска по Почте на Go», Виктор Стародуб, Mail.Ru Group \| Технострим](https://www.youtube.com/watch?v=Zr_Rxo87VB8) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-26 |
+| [«Синхронизация данных в Go с помощью mysql binlog», Артем Желтак, Rambler \| Технострим](https://www.youtube.com/watch?v=oByOmhOmOh4) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-26 |
+| [«Переход web-api Почты@Mail.Ru на Go», Василий Романов, Mail.Ru Group \| Технострим](https://www.youtube.com/watch?v=iDjEQ1ptM5o) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-26 |
 
 ### [2019](https://www.youtube.com/playlist?list=PLGFInI_ge4jT6xmjgSTDxJ56FySbQ-8pJ)
 
