@@ -109,6 +109,9 @@
 | [Виталий Березнев, «GO в Kolesa Group»](https://www.youtube.com/watch?v=4UhAevpsyLk) | [Kolesa Group](https://www.youtube.com/channel/UC6o6waSdIvmIdvy7qTqxY9A) / Kolesa Go Meetup | 2019-11-09 |
 | [Антон Сергеев, «Go под капотом»](https://www.youtube.com/watch?v=rloqQY9CT8I) | [Kolesa Group](https://www.youtube.com/channel/UC6o6waSdIvmIdvy7qTqxY9A) / Kolesa Go Meetup | 2019-11-13 |
 | [Алтынбек Шарипов, «JSON Marshal / Unmarshal интерфейсов в Go»](https://www.youtube.com/watch?v=9MA60kPiC6I) | [Kolesa Group](https://www.youtube.com/channel/UC6o6waSdIvmIdvy7qTqxY9A) / Kolesa Go Meetup | 2019-12-03 |
+| [Профит для компании от Go / Кирилл Шваков, Integros](https://www.youtube.com/watch?v=CuikMkJy0ss) | [Wisebits Live](https://www.youtube.com/channel/UCkxctfKPqivK694rDGTfHhA) / Wisebits Golang Meetup | 2019-11-19 |
+| [Как ошибиться с конкурентностью в Go / Алексей Палажченко](https://www.youtube.com/watch?v=qYq8ZdWS7uQ) | [Wisebits Live](https://www.youtube.com/channel/UCkxctfKPqivK694rDGTfHhA) / Wisebits Golang Meetup | 2019-11-19 |
+| [Go optimisations in VictoriaMetrics / Александр Валялкин, VictoriaMetrics](https://www.youtube.com/watch?v=MZ5P21j_HLE) | [Wisebits Live](https://www.youtube.com/channel/UCkxctfKPqivK694rDGTfHhA) / Wisebits Golang Meetup | 2019-11-19 |
 
 ### [2020](https://www.youtube.com/playlist?list=PLGFInI_ge4jTdEcihGP-m_yWMPL3KNd8a)
 
