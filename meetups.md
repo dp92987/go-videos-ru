@@ -42,6 +42,7 @@
 
 | Название | Канал / Митап | Дата |
 | -------- | ------------- | ---- |
+| [Митап сообщества Golang Москва. Докладчики: Алексей Палажченко и Иван Королёв.](https://www.youtube.com/watch?v=HXqrsU7y0lU) | [Ozon IT Events](https://www.youtube.com/channel/UCCqNFXg3NRbRA6qNKFRecdw) / Golang Moscow | 2018-09-06 |
 | [«Миллиард пушей на Go», Дмитрий Швеенков, Mail.Ru Group \| Технострим](https://www.youtube.com/watch?v=4NiGS9Lmde4) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-23 |
 | [«Опыт переезда частей сайта банка с Parser на Go», Андрей Рацеров, Альфа-Банк \| Технострим](https://www.youtube.com/watch?v=uJR0nRZnsek) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-23 |
 | [«Медиасервер трансляций на Go», Михаил Райченко, ВКонтакте \| Технострим](https://www.youtube.com/watch?v=FB2y4rXOVRo) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-23 |
@@ -56,6 +57,7 @@
 
 | Название | Канал / Митап | Дата |
 | -------- | ------------- | ---- |
+| [Внеочередной митап Golang Moscow](https://www.youtube.com/watch?v=nevTWT9Jw3Q) | [Ozon IT Events](https://www.youtube.com/channel/UCCqNFXg3NRbRA6qNKFRecdw) / Golang Moscow | 2019-11-09 |
 | [Виталий Березнев, «GO в Kolesa Group»](https://www.youtube.com/watch?v=4UhAevpsyLk) | [Kolesa Group](https://www.youtube.com/channel/UC6o6waSdIvmIdvy7qTqxY9A) / Kolesa Go Meetup | 2019-11-09 |
 | [Антон Сергеев, «Go под капотом»](https://www.youtube.com/watch?v=rloqQY9CT8I) | [Kolesa Group](https://www.youtube.com/channel/UC6o6waSdIvmIdvy7qTqxY9A) / Kolesa Go Meetup | 2019-11-13 |
 | [Алтынбек Шарипов, «JSON Marshal / Unmarshal интерфейсов в Go»](https://www.youtube.com/watch?v=9MA60kPiC6I) | [Kolesa Group](https://www.youtube.com/channel/UC6o6waSdIvmIdvy7qTqxY9A) / Kolesa Go Meetup | 2019-12-03 |
