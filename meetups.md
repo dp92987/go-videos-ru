@@ -59,6 +59,7 @@
 
 | Название | Канал / Митап | Дата |
 | -------- | ------------- | ---- |
+| [Алексей Акулович — Плюсы и минусы Go, а также его применения в ВКонтакте](https://www.youtube.com/watch?v=2fxNbhy2gt0) | [TechTrain](https://www.youtube.com/channel/UCJoerW5eDOz5qu7I2CYi7xg) / TechTrain 2019 | 2019-04-15 |
 | [Внеочередной митап Golang Moscow](https://www.youtube.com/watch?v=nevTWT9Jw3Q) | [Ozon IT Events](https://www.youtube.com/channel/UCCqNFXg3NRbRA6qNKFRecdw) / Golang Moscow | 2019-11-09 |
 | [Виталий Березнев, «GO в Kolesa Group»](https://www.youtube.com/watch?v=4UhAevpsyLk) | [Kolesa Group](https://www.youtube.com/channel/UC6o6waSdIvmIdvy7qTqxY9A) / Kolesa Go Meetup | 2019-11-09 |
 | [Антон Сергеев, «Go под капотом»](https://www.youtube.com/watch?v=rloqQY9CT8I) | [Kolesa Group](https://www.youtube.com/channel/UC6o6waSdIvmIdvy7qTqxY9A) / Kolesa Go Meetup | 2019-11-13 |
