@@ -68,6 +68,12 @@
 | [Как ошибиться с конкурентностью в Go / Алексей Палажченко](https://www.youtube.com/watch?v=qYq8ZdWS7uQ) | [Wisebits Live](https://www.youtube.com/channel/UCkxctfKPqivK694rDGTfHhA) / Wisebits Golang Meetup | 2019-11-19 |
 | [Go optimisations in VictoriaMetrics / Александр Валялкин, VictoriaMetrics](https://www.youtube.com/watch?v=MZ5P21j_HLE) | [Wisebits Live](https://www.youtube.com/channel/UCkxctfKPqivK694rDGTfHhA) / Wisebits Golang Meetup | 2019-11-19 |
 
+#### Saint HighLoad++ 2019
+
+| Название | Канал | Длительность |
+| -------- | ----- | ------------ |
+| [Практики, особенности и нюансы при работе с Postgres в Go / Артемий Рябинков (Авито)](https://www.youtube.com/watch?v=2fxNbhy2gt0) | [HighLoad Channel](https://www.youtube.com/channel/UCwHL6WHUarjGfUM_586me8w) | 0:47:59 | 
+
 ### [2020](https://www.youtube.com/playlist?list=PLGFInI_ge4jTdEcihGP-m_yWMPL3KNd8a)
 
 | Название | Канал / Митап | Дата |
