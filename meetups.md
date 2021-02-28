@@ -55,6 +55,12 @@
 | [«Синхронизация данных в Go с помощью mysql binlog», Артем Желтак, Rambler \| Технострим](https://www.youtube.com/watch?v=oByOmhOmOh4) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-26 |
 | [«Переход web-api Почты@Mail.Ru на Go», Василий Романов, Mail.Ru Group \| Технострим](https://www.youtube.com/watch?v=iDjEQ1ptM5o) | [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) / GO в продакшене | 2018-11-26 |
 
+#### HighLoad++ Moscow 2018
+
+| Название | Канал | Длительность |
+| -------- | ----- | ------------ |
+| [Golang: специфические вопросы производительности / Даниил Подольский, Кирилл Даншин](https://www.youtube.com/watch?v=8UESXMJwTpc) | [HighLoad Channel](https://www.youtube.com/channel/UCwHL6WHUarjGfUM_586me8w) | 0:33:47 | 
+
 ### [2019](https://www.youtube.com/playlist?list=PLGFInI_ge4jT6xmjgSTDxJ56FySbQ-8pJ)
 
 | Название | Канал / Митап | Дата |
