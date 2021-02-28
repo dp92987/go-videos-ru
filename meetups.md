@@ -78,7 +78,7 @@
 
 | Название | Канал | Длительность |
 | -------- | ----- | ------------ |
-| [Практики, особенности и нюансы при работе с Postgres в Go / Артемий Рябинков (Авито)](https://www.youtube.com/watch?v=2fxNbhy2gt0) | [HighLoad Channel](https://www.youtube.com/channel/UCwHL6WHUarjGfUM_586me8w) | 0:47:59 | 
+| [Практики, особенности и нюансы при работе с Postgres в Go / Артемий Рябинков (Авито)](https://www.youtube.com/watch?v=Uojy57I-xP0) | [HighLoad Channel](https://www.youtube.com/channel/UCwHL6WHUarjGfUM_586me8w) | 0:47:59 | 
 
 ### [2020](https://www.youtube.com/playlist?list=PLGFInI_ge4jTdEcihGP-m_yWMPL3KNd8a)
 
