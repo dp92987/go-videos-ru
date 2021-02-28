@@ -20,6 +20,7 @@
   - [2018](meetups.md#2018)
   - [2019](meetups.md#2019)
   - [2020](meetups.md#2020)
+  - [2021](meetups.md#2021)
 - [Разное](other.md)
 
 ## [Разное](https://www.youtube.com/playlist?list=PLGFInI_ge4jTO9PPcld8RV103xu3AF8oH)

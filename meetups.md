@@ -20,6 +20,7 @@
   - [2018](meetups.md#2018)
   - [2019](meetups.md#2019)
   - [2020](meetups.md#2020)
+  - [2021](meetups.md#2021)
 - [Разное](other.md)
 
 ## Доклады
@@ -93,3 +94,11 @@
 | [Чистая архитектура в автоматизации - Сергей Шамбир, iSpring](https://www.youtube.com/watch?v=GjeX9AaPD_k) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
 | [Go-Swagger в продуктиве: взлеты и падения — Илья Казначеев, МТС](https://www.youtube.com/watch?v=9GgCbQdW6J4) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
 | [Викторина по языку Go на митапе "Карантин, Go away!"](https://www.youtube.com/watch?v=GaDubTLOkUI) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
+
+### [2021](https://www.youtube.com/playlist?list=PLGFInI_ge4jQ4gFYOVy43u2lY-3dE6-Pg)
+
+#### GoYola
+
+| Название | Канал | Длительность |
+| -------- | ----- | ------------ |
+| [Первый Go-митап 2021. Йошкар-Ола. Прямая трансляция.](https://www.youtube.com/watch?v=KipUO2D41pc) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) | 2:44:24 | 

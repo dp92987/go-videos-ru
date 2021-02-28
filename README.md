@@ -20,4 +20,5 @@
   - [2018](meetups.md#2018)
   - [2019](meetups.md#2019)
   - [2020](meetups.md#2020)
+  - [2021](meetups.md#2021)
 - [Разное](other.md)
