@@ -79,7 +79,7 @@
 
 | Название | Канал | Длительность |
 | -------- | ----- | ------------ |
-| [Практики, особенности и нюансы при работе с Postgres в Go / Артемий Рябинков (Авито)](https://www.youtube.com/watch?v=Uojy57I-xP0) | [HighLoad Channel](https://www.youtube.com/channel/UCwHL6WHUarjGfUM_586me8w) | 0:47:59 | 
+| [Практики, особенности и нюансы при работе с Postgres в Go / Артемий Рябинков (Авито)](https://www.youtube.com/watch?v=Uojy57I-xP0) | [HighLoad Channel](https://www.youtube.com/channel/UCwHL6WHUarjGfUM_586me8w) | 0:47:59 |
 
 ### [2020](https://www.youtube.com/playlist?list=PLGFInI_ge4jTdEcihGP-m_yWMPL3KNd8a)
 
@@ -94,6 +94,19 @@
 | [Чистая архитектура в автоматизации - Сергей Шамбир, iSpring](https://www.youtube.com/watch?v=GjeX9AaPD_k) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
 | [Go-Swagger в продуктиве: взлеты и падения — Илья Казначеев, МТС](https://www.youtube.com/watch?v=9GgCbQdW6J4) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
 | [Викторина по языку Go на митапе "Карантин, Go away!"](https://www.youtube.com/watch?v=GaDubTLOkUI) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
+
+#### Stay home and GOnline
+
+| Название | Канал | Длительность |
+| -------- | ----- | ------------ |
+| [Go Data Concurrency Detection \| Эмиль Шарифуллин, СКБ Контур](https://www.youtube.com/watch?v=zOl_5228MXA) | [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) | 0:36:30 |
+| [Live перезагрузка кода в Go \| Юрий Насретдинов](https://www.youtube.com/watch?v=pFgCkt-tBOI) | [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) | 0:29:08 |
+| [Конфигурируем http и db пакеты \| Илья Богданов, iSpring Solutions](https://www.youtube.com/watch?v=PxNUZLSNg2o) | [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) | 0:30:19 |
+| [How to design a Go library \| Богдан Сторожук](https://www.youtube.com/watch?v=PgWrgPYpmE8) | [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) | 0:40:33 |
+| [Статический анализ регулярок \| Искандер Шарипов, ВКонтакте](https://www.youtube.com/watch?v=PO9A082Nqsk) | [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) | 0:35:06 |
+| [Трюки кодогенерации в Go \| Станислав Афанасьев, Beat](https://www.youtube.com/watch?v=ToOuJupCB9k) | [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) | 0:37:00 |
+| [Geo Search: MongoDB vs S2 Geometry \| Степан Пестерников, Авито](https://www.youtube.com/watch?v=lKadsoiMfek) | [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) | 0:19:00 |
+| [Работа с моделями машинного обучения под TensorFlow \| Артемий Рябинков, Unity](https://www.youtube.com/watch?v=-fXQN2cbhF8) | [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) | 0:43:26 |
 
 ### [2021](https://www.youtube.com/playlist?list=PLGFInI_ge4jQ4gFYOVy43u2lY-3dE6-Pg)
 
