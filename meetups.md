@@ -95,7 +95,17 @@
 | [Go-Swagger в продуктиве: взлеты и падения — Илья Казначеев, МТС](https://www.youtube.com/watch?v=9GgCbQdW6J4) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
 | [Викторина по языку Go на митапе "Карантин, Go away!"](https://www.youtube.com/watch?v=GaDubTLOkUI) | [iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) / Карантин, Go away! | 2020-06-08 |
 
-#### Stay home and GOnline
+
+
+#### A-Level Go Meetup ([AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg))
+
+| Название | Длительность |
+| -------- | ------------ |
+| [Разбор и сравнение данных в большом XML на маленькой VDS \| Филипп Кулин, Дремучий Лес](https://www.youtube.com/watch?v=7LwL0mtBBjc) | 0:38:55 |
+| [Работа с миграциями базы данных в Go \| Тамара Веденина, Ozon.ru](https://www.youtube.com/watch?v=hKnWq4RmNKE) | 0:30:03 |
+| [“Go, please”: language server под микроскопом \| Илья Данилкин, Авито](https://www.youtube.com/watch?v=rcvA5gSwj2o) | 0:45:36 |
+| [CI/CD для Go проектов на drone.io | Алик Хилажев, Marketplace Technologies](https://www.youtube.com/watch?v=mKT-bLdRGvQ) | 0:42:45 |
+
 
 | Название | Канал | Длительность |
 | -------- | ----- | ------------ |
