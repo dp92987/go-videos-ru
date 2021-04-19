@@ -81,6 +81,15 @@
 | -------- | ----- | ------------ |
 | [Практики, особенности и нюансы при работе с Postgres в Go / Артемий Рябинков (Авито)](https://www.youtube.com/watch?v=Uojy57I-xP0) | [HighLoad Channel](https://www.youtube.com/channel/UCwHL6WHUarjGfUM_586me8w) | 0:47:59 |
 
+#### Десять лет Go! ([AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg))
+
+| Название | Длительность |
+| -------- | ------------ |
+| [10 лет Go: прошлое, будущее, экосистемы и сообщества \| Алексей Палажченко](https://www.youtube.com/watch?v=eH7JCZp7xtg) | 0:45:35 |
+| [Готовим сервисы к миру облачных инфраструктур \| Елена Граховац, 26](https://www.youtube.com/watch?v=M8tRqJWjXt0) | 1:01:51 |
+| [Интеграция ML моделей в сервис на Go \| Дмитрий Зенин, Ozon](https://www.youtube.com/watch?v=Ib934FGLsCU) | 0:44:20 |
+| [Navigator — решение для мультикластерной балансировки \| Михаил Шавердо, Авито](https://www.youtube.com/watch?v=g720zslP3kM) | 0:45:35 |
+
 ### [2020](https://www.youtube.com/playlist?list=PLGFInI_ge4jTdEcihGP-m_yWMPL3KNd8a)
 
 | Название | Канал / Митап | Дата |
