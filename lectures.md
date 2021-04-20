@@ -1,26 +1,22 @@
 [![hits](https://hits.deltapapa.io/github/dp92987/go-videos-ru.svg)](https://hits.deltapapa.io)
 
-# Go (Golang) Videos
+# Go Videos
 
-Каталог докладов, лекций и других видеоматериалов по Go.
+Каталог докладов, лекций и других видеоматериалов о Go.
 
 Подписывайтесь на телеграм-канал [go blog()](https://t.me/golangblog).
 
 ## TOC
 
-- [Курсы](courses.md)
+- Митапы
+  - [2013](/meetups/2013.md)
+  - [2017](/meetups/2017.md)
+  - [2018](/meetups/2018.md)
+  - [2019](/meetups/2019.md)
+  - [2020](/meetups/2020.md)
+  - [2021](/meetups/2021.md)
 - [Лекции](lectures.md)
-  - [Технострим Mail.Ru Group](lectures.md#технострим-mailru-group)
-  - [Skillbox](lectures.md#skillbox)
-  - [OTUS](lectures.md#otus)
-  - [Другие](lectures.md#другие)
-- [Доклады](meetups.md)
-  - [2013](meetups.md#2013)
-  - [2017](meetups.md#2017)
-  - [2018](meetups.md#2018)
-  - [2019](meetups.md#2019)
-  - [2020](meetups.md#2020)
-  - [2021](meetups.md#2021)
+- [Курсы](courses.md)
 - [Разное](other.md)
 
 ## Лекции
@@ -74,17 +70,17 @@
 | [Разработчик Golang // День открытых дверей OTUS](https://www.youtube.com/watch?v=54v7xkp9uSk) | 1:12:38 | 2020-08-11 |
 | [Сервис котировок с websocket и GRPC // Бесплатный урок OTUS](https://www.youtube.com/watch?v=OsXjDZ52dyQ) | 1:41:51 | 2020-08-20 |
 | [Golang Developer. Professional // День открытых дверей OTUS](https://www.youtube.com/watch?v=XUY7uwWBCRQ) | 0:57:15 | 2020-11-06 |
-| [Интеграционные тесты на Go  // Бесплатный урок](https://www.youtube.com/watch?v=AV6xAeHQVl4) | 1:48:07 | 2020-11-13 |
+| [Интеграционные тесты на Go // Бесплатный урок](https://www.youtube.com/watch?v=AV6xAeHQVl4) | 1:48:07 | 2020-11-13 |
 
 ### [Другие](https://www.youtube.com/playlist?list=PLGFInI_ge4jTYcx5J88U9FwMfRaortxXE)
 
-| Название | Канал | Дата |
-| -------- | ----- | ---- |
-| [Изучение Go в одном видео уроке за 30 минут!](https://www.youtube.com/watch?v=pfmxPtLIW34) | [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw) | 2017-08-07 |
-| [Язык программирования Go с живыми примерами](https://www.youtube.com/watch?v=lDdBWPsqpnw) | [Компьютерная школа Hillel](https://www.youtube.com/channel/UCIyfaiKil5oomY64XIRJEAA) | 2017-10-01 |
-| [Лекции по Go 1/3. Эффективное использование структур данных в Go](https://www.youtube.com/watch?v=kClQ7rM5uBY) | [FIX Group of Companies](https://www.youtube.com/channel/UCYCgb6TgOyPMkb5YYMaX9FQ) | 2018-11-13 |
-| [Лекции по Go 2/3. Практическое занятие по профилированию кода](https://www.youtube.com/watch?v=tmrqqk0q22g) | [FIX Group of Companies](https://www.youtube.com/channel/UCYCgb6TgOyPMkb5YYMaX9FQ) | 2018-11-13 |
-| [Лекции по Go 3/3. Эффективная асинхронность (concurrency) в Go](https://www.youtube.com/watch?v=o4vd-lMRI54) | [FIX Group of Companies](https://www.youtube.com/channel/UCYCgb6TgOyPMkb5YYMaX9FQ) | 2018-11-13 |
-| [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) | 2018-12-24 |
-| [Программирование на Go - структура проекта](https://www.youtube.com/watch?v=MAouB2r4yms) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 2020-08-12 |
-| [Golang REST API на Echo framework. Clean Architecture. Testify для тестов.](https://www.youtube.com/watch?v=dyvYXidvc8g) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 2020-10-13 |
+| Название | Канал | Длительность | Дата |
+| -------- | ----- | ------------ | ---- |
+| [Изучение Go в одном видео уроке за 30 минут!](https://www.youtube.com/watch?v=pfmxPtLIW34) | [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw) | 0:31:22 | 2017-08-07 |
+| [Язык программирования Go с живыми примерами](https://www.youtube.com/watch?v=lDdBWPsqpnw) | [Компьютерная школа Hillel](https://www.youtube.com/channel/UCIyfaiKil5oomY64XIRJEAA) | 1:32:56 | 2017-10-01 |
+| [Лекции по Go 1/3. Эффективное использование структур данных в Go](https://www.youtube.com/watch?v=kClQ7rM5uBY) | [FIX Group of Companies](https://www.youtube.com/channel/UCYCgb6TgOyPMkb5YYMaX9FQ) | 1:35:52 | 2018-11-13 |
+| [Лекции по Go 2/3. Практическое занятие по профилированию кода](https://www.youtube.com/watch?v=tmrqqk0q22g) | [FIX Group of Companies](https://www.youtube.com/channel/UCYCgb6TgOyPMkb5YYMaX9FQ) | 1:22:55 | 2018-11-13 |
+| [Лекции по Go 3/3. Эффективная асинхронность (concurrency) в Go](https://www.youtube.com/watch?v=o4vd-lMRI54) | [FIX Group of Companies](https://www.youtube.com/channel/UCYCgb6TgOyPMkb5YYMaX9FQ) | 1:18:30 | 2018-11-13 |
+| [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) | 1:36:17 | 2018-12-24 |
+| [Программирование на Go - структура проекта](https://www.youtube.com/watch?v=MAouB2r4yms) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 0:21:13 | 2020-08-12 |
+| [Golang REST API на Echo framework. Clean Architecture. Testify для тестов.](https://www.youtube.com/watch?v=dyvYXidvc8g) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 0:34:01 | 2020-10-13 |
