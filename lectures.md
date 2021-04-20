@@ -85,5 +85,6 @@
 | [Лекции по Go 2/3. Практическое занятие по профилированию кода](https://www.youtube.com/watch?v=tmrqqk0q22g) | [FIX Group of Companies](https://www.youtube.com/channel/UCYCgb6TgOyPMkb5YYMaX9FQ) | 1:22:55 | 2018-11-13 |
 | [Лекции по Go 3/3. Эффективная асинхронность (concurrency) в Go](https://www.youtube.com/watch?v=o4vd-lMRI54) | [FIX Group of Companies](https://www.youtube.com/channel/UCYCgb6TgOyPMkb5YYMaX9FQ) | 1:18:30 | 2018-11-13 |
 | [Введение в язык программирования Go](https://www.youtube.com/watch?v=1V5GAYoaKRE) | [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) | 1:36:17 | 2018-12-24 |
+| [Разработка production ready web сервиса на Go - Илья Казначеев](https://www.youtube.com/watch?v=UTWIskmGN5o) | [GDG Voronezh](https://www.youtube.com/channel/UCuyQZKRY--KwpvAqaUINs_w | 3:49:45 | 2020-04-26 |
 | [Программирование на Go - структура проекта](https://www.youtube.com/watch?v=MAouB2r4yms) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 0:21:13 | 2020-08-12 |
 | [Golang REST API на Echo framework. Clean Architecture. Testify для тестов.](https://www.youtube.com/watch?v=dyvYXidvc8g) | [АйТи Красавчик](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw) | 0:34:01 | 2020-10-13 |
