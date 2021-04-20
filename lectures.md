@@ -71,6 +71,9 @@
 | [Сервис котировок с websocket и GRPC // Бесплатный урок OTUS](https://www.youtube.com/watch?v=OsXjDZ52dyQ) | 1:41:51 | 2020-08-20 |
 | [Golang Developer. Professional // День открытых дверей OTUS](https://www.youtube.com/watch?v=XUY7uwWBCRQ) | 0:57:15 | 2020-11-06 |
 | [Интеграционные тесты на Go // Бесплатный урок](https://www.youtube.com/watch?v=AV6xAeHQVl4) | 1:48:07 | 2020-11-13 |
+| [Demo Day курса «Golang Developer. Professional»](https://www.youtube.com/watch?v=hm62vpFVK1k) | 1:30:39 | 2021-02-09 |
+| [Go-каналы снаружи и внутри](https://www.youtube.com/watch?v=iSeMngtqrzM) | 1:30:19 | 2021-02-13 |
+| [Вебинар Карьера для «Golang Developer. Professional»](https://www.youtube.com/watch?v=eqhqm4uy1q4) | 1:48:07 | 2021-02-16 |
 
 ### [Другие](https://www.youtube.com/playlist?list=PLGFInI_ge4jTYcx5J88U9FwMfRaortxXE)
 
