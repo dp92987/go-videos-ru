@@ -130,6 +130,12 @@
 | [Go-Swagger в продуктиве: взлеты и падения — Илья Казначеев, МТС](https://www.youtube.com/watch?v=9GgCbQdW6J4) | 0:41:27 |
 | [Викторина по языку Go на митапе "Карантин, Go away!"](https://www.youtube.com/watch?v=GaDubTLOkUI) | 0:14:35 |
 
+#### Golang Live 2020 ([Golang Channel](https://www.youtube.com/channel/UCykb1JeHJvVHOL6XJCoWMdA))
+
+| Название | Длительность |
+| -------- | ------------ |
+| [Авито: создание микросервиса на PaaS / Иван Королёв (Авито)](https://www.youtube.com/watch?v=uB_0zPlkWao) | 0:42:08 |
+
 ### [2021](https://www.youtube.com/playlist?list=PLGFInI_ge4jQ4gFYOVy43u2lY-3dE6-Pg)
 
 #### GoYola ([iSpring Tech](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg))
