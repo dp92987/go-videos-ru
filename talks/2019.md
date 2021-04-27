@@ -1,6 +1,6 @@
 [![hits](https://hits.deltapapa.io/github/dp92987/go-videos-ru.svg)](https://hits.deltapapa.io)
 
-# go-videos-ru
+# go-videos-ru [[en](https://github.com/dp92987/golang-talks)]
 
 Каталог докладов, лекций и других видеоматериалов о Go.
 
